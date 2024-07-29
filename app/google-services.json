@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1026930504579",
+    "firebase_url": "https://telematica-2024-default-rtdb.firebaseio.com",
+    "project_id": "telematica-2024",
+    "storage_bucket": "telematica-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026930504579:android:7e3fc973be8dfb166c7cb6",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjX-lOrnSXDd9jwtYZuhNfR6Zk0SuyMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
